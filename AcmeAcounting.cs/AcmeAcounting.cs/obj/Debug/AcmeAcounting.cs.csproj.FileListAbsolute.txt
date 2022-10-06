@@ -1,0 +1,6 @@
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\AcmeAcounting.cs\AcmeAcounting.cs\bin\Debug\AcmeAcounting.cs.exe.config
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\AcmeAcounting.cs\AcmeAcounting.cs\bin\Debug\AcmeAcounting.cs.exe
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\AcmeAcounting.cs\AcmeAcounting.cs\bin\Debug\AcmeAcounting.cs.pdb
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\AcmeAcounting.cs\AcmeAcounting.cs\obj\Debug\AcmeAcounting.cs.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\AcmeAcounting.cs\AcmeAcounting.cs\obj\Debug\AcmeAcounting.cs.exe
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\AcmeAcounting.cs\AcmeAcounting.cs\obj\Debug\AcmeAcounting.cs.pdb
