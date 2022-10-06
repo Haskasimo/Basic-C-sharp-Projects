@@ -5,7 +5,7 @@ namespace StudentDailyReport
     class Program
     {
         static void Main()
-        {   //program welcom message
+        {   //program welcome message
             Console.WriteLine("The Tech Academy \n Student Daily Reoprt ");
             //first question
             Console.WriteLine("What is your name?");
@@ -25,7 +25,10 @@ namespace StudentDailyReport
             Console.WriteLine("were there are positive ecpirences you'd like to share? Please be specific ");
             string GoodExp = Console.ReadLine();
             //sixth question
-            Console.WriteLine("How many hours did you study today?Please give numeric value only.");
+            Console.WriteLine("Is there any other feedback you'd like to share? Please be specific.");
+            string feedback = Console.ReadLine();
+            //seventh question
+            Console.WriteLine("How many hours did you study today? Please give numeric value only.");
             string StudyHours = Console.ReadLine();
             int Hours = Convert.ToInt32(StudyHours);//the programmer might need to adjust hours through math at a later date, so this data type will need to change to an integer as you can not do math operations on a string.
             Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great day!");
