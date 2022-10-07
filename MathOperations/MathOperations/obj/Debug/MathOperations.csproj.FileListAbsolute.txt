@@ -1,0 +1,7 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MathOperations\MathOperations\bin\Debug\MathOperations.exe.config
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MathOperations\MathOperations\bin\Debug\MathOperations.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MathOperations\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MathOperations\MathOperations\obj\Debug\MathOperations.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MathOperations\MathOperations\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MathOperations\MathOperations\obj\Debug\MathOperations.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MathOperations\MathOperations\obj\Debug\MathOperations.pdb
