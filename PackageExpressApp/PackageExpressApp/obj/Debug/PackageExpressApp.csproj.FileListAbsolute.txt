@@ -1,0 +1,7 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\PackageExpressApp\PackageExpressApp\bin\Debug\PackageExpressApp.exe.config
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\PackageExpressApp\PackageExpressApp\bin\Debug\PackageExpressApp.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\PackageExpressApp\PackageExpressApp\bin\Debug\PackageExpressApp.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\PackageExpressApp\PackageExpressApp\obj\Debug\PackageExpressApp.pdb
