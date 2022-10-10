@@ -41,7 +41,7 @@ namespace WhileLoop1
 
                 }
             }
-            while (!Guess);// this creatres a loop stateing that if the bool guess = false then Console.WriteLine("guess a number.") will trigger and it will loop the program again untill Number == 8 or Guess == true.
+            while (!Guess);// this creates a loop stateing that if the bool guess = false then Console.WriteLine("guess a number.") will trigger and it will loop the program again untill Number == 8 or Guess == true.
 
             {
                
