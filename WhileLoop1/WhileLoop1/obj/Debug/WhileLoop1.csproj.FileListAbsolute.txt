@@ -1,0 +1,7 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\WhileLoop1\WhileLoop1\bin\Debug\WhileLoop1.exe.config
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\WhileLoop1\WhileLoop1\bin\Debug\WhileLoop1.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\WhileLoop1\WhileLoop1\bin\Debug\WhileLoop1.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\WhileLoop1\WhileLoop1\obj\Debug\WhileLoop1.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\WhileLoop1\WhileLoop1\obj\Debug\WhileLoop1.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\WhileLoop1\WhileLoop1\obj\Debug\WhileLoop1.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\WhileLoop1\WhileLoop1\obj\Debug\WhileLoop1.pdb
