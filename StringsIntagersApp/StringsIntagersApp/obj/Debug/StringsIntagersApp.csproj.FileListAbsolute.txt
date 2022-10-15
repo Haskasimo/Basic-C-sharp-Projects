@@ -1,0 +1,7 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StringsIntagersApp\StringsIntagersApp\bin\Debug\StringsIntagersApp.exe.config
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StringsIntagersApp\StringsIntagersApp\bin\Debug\StringsIntagersApp.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StringsIntagersApp\StringsIntagersApp\bin\Debug\StringsIntagersApp.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StringsIntagersApp\StringsIntagersApp\obj\Debug\StringsIntagersApp.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StringsIntagersApp\StringsIntagersApp\obj\Debug\StringsIntagersApp.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StringsIntagersApp\StringsIntagersApp\obj\Debug\StringsIntagersApp.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StringsIntagersApp\StringsIntagersApp\obj\Debug\StringsIntagersApp.pdb
