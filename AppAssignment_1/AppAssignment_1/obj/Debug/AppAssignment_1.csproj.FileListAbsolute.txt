@@ -1,0 +1,7 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AppAssignment_1\AppAssignment_1\obj\Debug\AppAssignment_1.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AppAssignment_1\AppAssignment_1\obj\Debug\AppAssignment_1.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AppAssignment_1\AppAssignment_1\bin\Debug\AppAssignment_1.exe.config
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AppAssignment_1\AppAssignment_1\bin\Debug\AppAssignment_1.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AppAssignment_1\AppAssignment_1\bin\Debug\AppAssignment_1.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AppAssignment_1\AppAssignment_1\obj\Debug\AppAssignment_1.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AppAssignment_1\AppAssignment_1\obj\Debug\AppAssignment_1.pdb
