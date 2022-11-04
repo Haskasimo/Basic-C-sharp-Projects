@@ -1,0 +1,7 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment3\MethodAssignment3\bin\Debug\MethodAssignment3.exe.config
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment3\MethodAssignment3\bin\Debug\MethodAssignment3.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment3\MethodAssignment3\bin\Debug\MethodAssignment3.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment3\MethodAssignment3\obj\Debug\MethodAssignment3.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment3\MethodAssignment3\obj\Debug\MethodAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment3\MethodAssignment3\obj\Debug\MethodAssignment3.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment3\MethodAssignment3\obj\Debug\MethodAssignment3.pdb
