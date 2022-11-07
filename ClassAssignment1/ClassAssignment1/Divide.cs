@@ -11,7 +11,7 @@ namespace ClassAssignment1
         public static void DivideBy2(int UserChoice)
         {
             int divide2 = UserChoice / 2;
-            Console.WriteLine(divide2);
+            Console.WriteLine("Your number divided by 2 is   " + divide2);
         }
 
         public static void OutNum(out int Number1)
@@ -28,8 +28,8 @@ namespace ClassAssignment1
 
             Number2 = 25;
             Number2 += Number2;
-            Console.WriteLine("The first number doubled is {0}" + Number1);
-            Console.WriteLine("The Second number doubled is {0} " + Number2);
+            Console.WriteLine("The first number doubled is " + Number1);
+            Console.WriteLine("The Second number doubled is " + Number2);
         }
     }
 }

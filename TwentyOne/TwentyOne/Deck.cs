@@ -30,5 +30,27 @@ namespace TwentyOne
             }
         }
         public List<Card> Cards { get; set; } //make sure all classes are set to public
-    }
+
+        //This method will randomly select cards and put the into a new "temperary" list that will be returned to the deck after its been "shuffled". 
+        public void Shuffle(int times = 1)//void states that it will handles values intrnaly but will not return value. 
+        {
+           
+            for (int i = 0; i < times; i++)//this creates times as a paramater so that  a method can be run multiple times
+            {
+                
+                List<Card> TempList = new List<Card>();//creats a empty list where all of the cards will eventually be randomly inserted into as if shuffling the deck
+                Random random = new Random();//built in random method 
+
+                while (Cards.Count > 0)//this grabs a random index and adds it to a new list. This loop will run until all cards in list have been removed.
+                {
+                    int randomIndex = random.Next(0, Cards.Count);// this create a random intager between the lowest index in the deck list which is 0 and the highst which is the "deck.Cards.Count" 
+                    TempList.Add(Cards[randomIndex]);//this adds the card at the randomly chosen index to be placed in the "TempList" list.
+                    Cards.RemoveAt(randomIndex); //this is a built in function of lists where it will remove the card at the randome index from the Deck list. this will contunue to remove on each loop until no cards are left
+                }
+                Cards = TempList;// this is stating that the value of deck is now tempList.
+
+            }
+
+        }
+        }
 }

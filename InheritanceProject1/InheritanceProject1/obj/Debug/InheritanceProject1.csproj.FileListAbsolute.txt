@@ -1,0 +1,7 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\InheritanceProject1\InheritanceProject1\bin\Debug\InheritanceProject1.exe.config
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\InheritanceProject1\InheritanceProject1\bin\Debug\InheritanceProject1.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\InheritanceProject1\InheritanceProject1\bin\Debug\InheritanceProject1.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\InheritanceProject1\InheritanceProject1\obj\Debug\InheritanceProject1.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\InheritanceProject1\InheritanceProject1\obj\Debug\InheritanceProject1.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\InheritanceProject1\InheritanceProject1\obj\Debug\InheritanceProject1.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\InheritanceProject1\InheritanceProject1\obj\Debug\InheritanceProject1.pdb
