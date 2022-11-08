@@ -10,13 +10,5 @@ namespace InheritanceProject1
     {
         public int Id { get; set; }
 
-        public override void SayName()
-
-        {
-            string FullName = FirstName + " " + LastName;
-            Console.WriteLine("Name: {0}", FullName);
-        }
     }
-
-  
 }
