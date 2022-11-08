@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F3987835-2EC8-4917-9C6C-BEDB6002107D}</ProjectGuid>
+    <ProjectGuid>{4ADA1D38-68C8-4883-89E3-B96B454BBD9D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>InheritanceProject1</RootNamespace>
-    <AssemblyName>InheritanceProject1</AssemblyName>
+    <RootNamespace>AbstractClassAssignment</RootNamespace>
+    <AssemblyName>AbstractClassAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\AbstractClassAssignment.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Person.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

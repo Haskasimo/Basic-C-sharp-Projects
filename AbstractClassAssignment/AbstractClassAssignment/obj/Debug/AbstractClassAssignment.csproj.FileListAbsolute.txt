@@ -1,0 +1,7 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
