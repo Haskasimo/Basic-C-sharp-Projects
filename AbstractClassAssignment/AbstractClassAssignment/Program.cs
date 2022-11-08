@@ -6,13 +6,17 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {
+
+    //This class is using an abstract class as the main class to inheris from
     class Program
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
+            IQuittable iquit = new Employee();
+            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" }; //instantiates the object employee with properties inherited from the Person Class 
 
-            employee.SayName();
+            employee.SayName();//calles override method in the Employee class
+            iquit.Quit();
             Console.ReadLine();
         }
     }
