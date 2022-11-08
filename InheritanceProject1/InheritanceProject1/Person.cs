@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace InheritanceProject1
 {
-   public class Person
+   public abstract class Person// this is a basic class that other methods can esily inherit from
     {
+        //the properties of the class
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public void SayName()
-        {
-            string FullName = FirstName + " " + LastName;
-            Console.WriteLine("Name: {0}", FullName);
-        }
+        //the behavior of the class. 
+        public abstract void SayName();//this is a abstract method and it will not actually do anything, but it staters that nay class inheriting must have a SayName Method.  
+        
+        
     }
 }

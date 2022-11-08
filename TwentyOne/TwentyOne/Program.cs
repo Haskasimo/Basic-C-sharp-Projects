@@ -12,7 +12,10 @@ namespace TwentyOne
         {
 
 
-
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Ben", "Mara", "Alex", "Ida" };
+            game.ListPlayers();
+            Console.ReadLine();
             Deck deck = new Deck();//instantiates an empty object deck baised on the Deck class.
             deck.Shuffle(3);//calls the Shuffle using the deck object
 

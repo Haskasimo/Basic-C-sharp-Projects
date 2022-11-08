@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InheritanceProject1
+namespace AbstractClassAssignment
 {
     class Program
     {

@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
+    //this is an abstract class or base class other classes can inherit from
     //the more genaric you can make your code, the more fetures you can add later
-    public class Game
+    public abstract class Game
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers()
+        public abstract void Play(); //this is an abstract method that only states that anyclass inheriting this class must implement a play method.
+        public virtual void ListPlayers()//the vertual method inside of an abstract class gets inherited but has the aboility to override. 
         {
             foreach (string player in Players)
             {

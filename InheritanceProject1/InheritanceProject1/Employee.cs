@@ -6,9 +6,17 @@ using System.Threading.Tasks;
 
 namespace InheritanceProject1
 {
-    public class Employee : Person
+    public class Employee : Person//this inherits the properties and methods from the Person Class
     {
         public int Id { get; set; }
 
+        public override void SayName()
+
+        {
+            string FullName = FirstName + " " + LastName;
+            Console.WriteLine("Name: {0}", FullName);
+        }
     }
+
+  
 }
