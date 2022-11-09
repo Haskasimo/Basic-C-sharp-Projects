@@ -9,7 +9,7 @@ namespace TwentyOne
     //This creates the object deck 
     public class Deck
     {
-        public Deck()//to make an entire deck of 52 cards it eaier to make a nested foreach loop
+        public Deck()//to make an entire deck of 52 cards it easier to make a nested foreach loop
         {
             Cards = new List<Card>();//refers to the property of the class so it does not need a data type. This makes an empty list of cards
             List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };//creats two lists of values

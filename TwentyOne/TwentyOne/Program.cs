@@ -12,10 +12,12 @@ namespace TwentyOne
         {
 
 
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "Ben", "Mara", "Alex", "Ida" };
-            game.ListPlayers();
-            Console.ReadLine();
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();//instantiated a list so players can be added to it
+            Player player = new Player();
+            player.Name = "Mara";
+            game +=  player;//overloaded operator that allows player from player class to be added to a list in Game class
+            game -=  player;//overloaded operator that will subtract a player from the game player list
             Deck deck = new Deck();//instantiates an empty object deck baised on the Deck class.
             deck.Shuffle(3);//calls the Shuffle using the deck object
 
