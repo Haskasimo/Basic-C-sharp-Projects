@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A77D8CA7-80F8-46B4-A18B-44A0BBE0A919}</ProjectGuid>
+    <ProjectGuid>{95AB7CCA-FBB3-4D27-9578-57BB6E4A19B5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Genarics1</RootNamespace>
-    <AssemblyName>Genarics1</AssemblyName>
+    <RootNamespace>StructsAssignment</RootNamespace>
+    <AssemblyName>StructsAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
+    <Compile Include="Number.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

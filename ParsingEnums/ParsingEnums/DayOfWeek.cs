@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParsingEnums
 {
-    class DayOfWeek
+   public class DayOfWeek
     {
         public WeekDays Days { get; set; }
 
@@ -20,5 +20,7 @@ namespace ParsingEnums
             Saturday, 
             Sunday
         }
+
+        
     }
 }

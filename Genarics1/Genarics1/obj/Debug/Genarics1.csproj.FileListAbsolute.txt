@@ -1,7 +1,0 @@
-C:\Users\Mara\source\repos\Genarics1\Genarics1\obj\Debug\Genarics1.csproj.AssemblyReference.cache
-C:\Users\Mara\source\repos\Genarics1\Genarics1\obj\Debug\Genarics1.csproj.CoreCompileInputs.cache
-C:\Users\Mara\source\repos\Genarics1\Genarics1\bin\Debug\Genarics1.exe.config
-C:\Users\Mara\source\repos\Genarics1\Genarics1\bin\Debug\Genarics1.exe
-C:\Users\Mara\source\repos\Genarics1\Genarics1\bin\Debug\Genarics1.pdb
-C:\Users\Mara\source\repos\Genarics1\Genarics1\obj\Debug\Genarics1.exe
-C:\Users\Mara\source\repos\Genarics1\Genarics1\obj\Debug\Genarics1.pdb

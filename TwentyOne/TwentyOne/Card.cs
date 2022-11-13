@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TwentyOne
 {
     //This is creating a class for cards. This will set the general properties for all objects that fit in this class.
-   public class Card
+   public struct Card
     {
         //public Card()//another way to make properties for objects is create a constructor. This will give the object defult properties automaticaly upon creation.
         //{

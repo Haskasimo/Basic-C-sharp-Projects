@@ -1,0 +1,7 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.exe.config
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.pdb

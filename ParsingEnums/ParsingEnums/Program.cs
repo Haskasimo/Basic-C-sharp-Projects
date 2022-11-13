@@ -13,7 +13,12 @@ namespace ParsingEnums
             
         Console.WriteLine("Good day! \n Can you please tell me what day of the week it is? " );
             string UserAnswer =Console.ReadLine();
+
+            WeekDays Day =(WeekDays)Enum.Parse(typeof(WeekDays))
             
+            
+            Console.ReadLine();
+          
 
 
            
