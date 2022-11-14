@@ -12,13 +12,13 @@ namespace ParsingEnums
 
         public enum WeekDays
         {
-            Monday,
-            Tuseday, 
-            Wednesday, 
-            Thursday,
-            Friday,
-            Saturday, 
-            Sunday
+            monday,
+            tuseday, 
+            wednesday, 
+            thursday,
+            friday,
+            saturday, 
+            sunday
         }
 
         
