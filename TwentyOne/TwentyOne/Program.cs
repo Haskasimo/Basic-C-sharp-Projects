@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -10,37 +11,40 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-
-
            
-            //Card card = new Card();//this is an Enum 
-            //card.Suit = Suit.Clubs;//this will only assign a value from the listed choices of the enum which protects agains errors 
-            //int underlyingValue = (int)Suit.Diamonds;//this is casting Suit.Diamonds to an int. But instead of an error you would get with trying to convert a string to an int, it would return the underlying int value of the list starting at 0 for the fist listed choice. You can also assign special values in the list.  
-            //Console.WriteLine(underlyingValue);
+            Console.WriteLine("Welcome to the Glacier Peaks Casino. Let's start by telling me your name.");
+            string PlayerName = Console.ReadLine();
+
+            Console.WriteLine("And how much money did you bring today? ");
+            int Bank = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", PlayerName); //because PlayerName will be added to the Players class, this will take the name enter at index 0. {0} 
+            string Answer = Console.ReadLine().ToLower();
             
-
-            Deck deck = new Deck();//instantiates an empty object deck baised on the Deck class.
-            deck.Shuffle(3);//calls the Shuffle using the deck object
-
-            foreach (Card card in deck.Cards)// this foreach loop will loop the through all objecs in the Cards list in the Deck class. 
+            if (Answer == "yes" || Answer =="yeah" || Answer == "y" ||Answer == "ya")
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);//this will combine and print the values of each object in the Cards list. 
+                //if user answers in any of the above way, this block of code will trigger. 
+                Player player = new Player(PlayerName, Bank); //this is an object created from the constructor for the player class. This initializes it with the begining values of name and beggining money bank.  
+                Game game = new TwentyOneGame();//polymorphisim is to expose the overloaded operators. 
+                game += player;//this adds player to Game class
+                player.isActiveltPlaying = true; //property of the player class which means while the player is playing, continue as well
+               
+                //using a while loop it can keep the loop running while certain conditions are happening. but while loops can be problematic. 
+                while (player.isActiveltPlaying && player.Balance >0)//if these two conditions are met (is the player still activly play, and does the player still have money in the bank) theloop will keep going.  
+                {
+                    game.Play();
+                }
+                game -= player;//if the while conditions are no longer mwt, it will take the player out of the game class, and play this message. 
+                Console.WriteLine("Thank you for playing!");
             }
-
-            Console.WriteLine(deck.Cards.Count);
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");//If the User answers No instead of Yes when asked to play, it will not load the player into the game and not start the game while loop. This mesage will trigger instead.  
             Console.ReadLine();
+
+
+
+
         }
-
-
     }
-        ////method overload to do multiple methods
-        //public static Deck Shuffle(Deck deck, int times) //this will allow the deck to be shuffled as many times as we want using times as its paramater 
-        //{ for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);// this reuses the same randomIndex method from above for shuffling cards several times
-        //    }
-        //    return deck;//returns the Values of the shuffled list from this method back to the deck
-            
 
   }
     
