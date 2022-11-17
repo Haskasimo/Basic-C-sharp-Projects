@@ -1,0 +1,7 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ConstructorsApp\ConstructorsApp\bin\Debug\ConstructorsApp.exe.config
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ConstructorsApp\ConstructorsApp\bin\Debug\ConstructorsApp.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ConstructorsApp\ConstructorsApp\bin\Debug\ConstructorsApp.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ConstructorsApp\ConstructorsApp\obj\Debug\ConstructorsApp.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ConstructorsApp\ConstructorsApp\obj\Debug\ConstructorsApp.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ConstructorsApp\ConstructorsApp\obj\Debug\ConstructorsApp.exe
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ConstructorsApp\ConstructorsApp\obj\Debug\ConstructorsApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\TwentyOne2\Casino4\bin\Debug\Casino4.dll
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\TwentyOne2\Casino4\bin\Debug\Casino4.pdb
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\TwentyOne2\Casino4\obj\Debug\Casino4.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\TwentyOne2\Casino4\obj\Debug\Casino4.dll
+C:\Users\Mara\OneDrive\Desktop\Basic_C#_Programs\TwentyOne2\Casino4\obj\Debug\Casino4.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\TwentyOne2\Casino4\bin\Debug\Casino4.dll
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\TwentyOne2\Casino4\bin\Debug\Casino4.pdb
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\TwentyOne2\Casino4\obj\Debug\Casino4.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\TwentyOne2\Casino4\obj\Debug\Casino4.csproj.CoreCompileInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\TwentyOne2\Casino4\obj\Debug\Casino4.dll
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\TwentyOne2\Casino4\obj\Debug\Casino4.pdb
