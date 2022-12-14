@@ -36,10 +36,10 @@ namespace CodeFirstProject
                 Console.WriteLine("Enrolled Students : ");
                 foreach (var item in query)
                 {
-                    Console.WriteLine(item.Name, " | ", item.Age, " | ", item.GPA, " | ", item.GuardianContact);
+                    Console.WriteLine(item.Name + " | " + item.Age + " | " + item.GPA + " | " + item.GuardianContact);
                 }
                 Console.WriteLine("Press any key to exit....");
-                Console.Readkey();
+                Console.ReadLine();
             }
 
         }
