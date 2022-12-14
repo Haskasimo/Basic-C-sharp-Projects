@@ -1,0 +1,5 @@
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\CodeFirstProject\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.AssemblyReference.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\CodeFirstProject\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\CodeFirstProject\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfoInputs.cache
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\CodeFirstProject\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfo.cs
+C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\CodeFirstProject\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CoreCompileInputs.cache
