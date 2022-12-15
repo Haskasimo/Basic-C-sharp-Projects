@@ -1,7 +1,0 @@
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAsign2\MethodAsign2\obj\Debug\MethodAsign2.csproj.AssemblyReference.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAsign2\MethodAsign2\obj\Debug\MethodAsign2.csproj.CoreCompileInputs.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAsign2\MethodAsign2\bin\Debug\MethodAsign2.exe.config
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAsign2\MethodAsign2\bin\Debug\MethodAsign2.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAsign2\MethodAsign2\bin\Debug\MethodAsign2.pdb
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAsign2\MethodAsign2\obj\Debug\MethodAsign2.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAsign2\MethodAsign2\obj\Debug\MethodAsign2.pdb

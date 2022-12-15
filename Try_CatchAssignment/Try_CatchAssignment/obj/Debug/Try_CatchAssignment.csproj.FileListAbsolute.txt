@@ -1,7 +1,0 @@
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\Try_CatchAssignment\Try_CatchAssignment\bin\Debug\Try_CatchAssignment.exe.config
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\Try_CatchAssignment\Try_CatchAssignment\bin\Debug\Try_CatchAssignment.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\Try_CatchAssignment\Try_CatchAssignment\bin\Debug\Try_CatchAssignment.pdb
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\Try_CatchAssignment\Try_CatchAssignment\obj\Debug\Try_CatchAssignment.csproj.AssemblyReference.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\Try_CatchAssignment\Try_CatchAssignment\obj\Debug\Try_CatchAssignment.csproj.CoreCompileInputs.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\Try_CatchAssignment\Try_CatchAssignment\obj\Debug\Try_CatchAssignment.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\Try_CatchAssignment\Try_CatchAssignment\obj\Debug\Try_CatchAssignment.pdb

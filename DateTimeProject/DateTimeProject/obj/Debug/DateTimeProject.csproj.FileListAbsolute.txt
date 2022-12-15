@@ -1,7 +1,0 @@
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\DateTimeProject\DateTimeProject\bin\Debug\DateTimeProject.exe.config
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\DateTimeProject\DateTimeProject\bin\Debug\DateTimeProject.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\DateTimeProject\DateTimeProject\bin\Debug\DateTimeProject.pdb
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.csproj.AssemblyReference.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.csproj.CoreCompileInputs.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.pdb

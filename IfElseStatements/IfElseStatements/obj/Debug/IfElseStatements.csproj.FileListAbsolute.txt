@@ -1,7 +1,0 @@
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\IfElseStatements\IfElseStatements\bin\Debug\IfElseStatements.exe.config
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\IfElseStatements\IfElseStatements\bin\Debug\IfElseStatements.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\IfElseStatements\IfElseStatements\bin\Debug\IfElseStatements.pdb
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\IfElseStatements\IfElseStatements\obj\Debug\IfElseStatements.csproj.AssemblyReference.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\IfElseStatements\IfElseStatements\obj\Debug\IfElseStatements.csproj.CoreCompileInputs.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\IfElseStatements\IfElseStatements\obj\Debug\IfElseStatements.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\IfElseStatements\IfElseStatements\obj\Debug\IfElseStatements.pdb

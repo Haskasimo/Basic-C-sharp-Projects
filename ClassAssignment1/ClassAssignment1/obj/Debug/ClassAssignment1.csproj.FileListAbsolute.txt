@@ -1,7 +1,0 @@
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ClassAssignment1\ClassAssignment1\bin\Debug\ClassAssignment1.exe.config
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ClassAssignment1\ClassAssignment1\bin\Debug\ClassAssignment1.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ClassAssignment1\ClassAssignment1\bin\Debug\ClassAssignment1.pdb
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.csproj.AssemblyReference.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.csproj.CoreCompileInputs.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.pdb

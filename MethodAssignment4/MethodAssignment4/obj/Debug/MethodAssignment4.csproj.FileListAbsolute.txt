@@ -1,7 +1,0 @@
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment4\MethodAssignment4\bin\Debug\MethodAssignment4.exe.config
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment4\MethodAssignment4\bin\Debug\MethodAssignment4.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment4\MethodAssignment4\bin\Debug\MethodAssignment4.pdb
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment4\MethodAssignment4\obj\Debug\MethodAssignment4.csproj.AssemblyReference.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment4\MethodAssignment4\obj\Debug\MethodAssignment4.csproj.CoreCompileInputs.cache
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment4\MethodAssignment4\obj\Debug\MethodAssignment4.exe
-C:\Users\Mara\OneDrive\Documents\GitHub\Basic-C-sharp-Projects\MethodAssignment4\MethodAssignment4\obj\Debug\MethodAssignment4.pdb
